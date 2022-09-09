@@ -3,9 +3,9 @@ module.exports = {
 
   /**
    * @type {boolean} true | false
-   * @description Whether show the settings right-panel
+   * @description Whether show the settings right-panel | 关闭右边设置布局选项
    */
-  showSettings: true,
+  showSettings: false,
 
   /**
    * @type {boolean} true | false
@@ -21,9 +21,9 @@ module.exports = {
 
   /**
    * @type {boolean} true | false
-   * @description Whether show the logo in sidebar
+   * @description Whether show the logo in sidebar 是否显示LOGO 默认显示
    */
-  sidebarLogo: false,
+  sidebarLogo: true,
 
   /**
    * @type {boolean} true | false
