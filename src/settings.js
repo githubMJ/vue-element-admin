@@ -1,5 +1,8 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  /**
+   * 修改主页浏览器title
+   */
+  title: 'SakureMei の 博客',
 
   /**
    * @type {boolean} true | false
